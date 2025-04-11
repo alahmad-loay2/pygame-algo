@@ -1,4 +1,4 @@
-# top down shooter gamer made with python - pygame and astar algorithm
+# top down shooter game made with python - pygame and astar algorithm
 
 ---
 
@@ -9,6 +9,9 @@
     https://github.com/alahmad-loay/pygame-algo.git
 ```
 - #### download pygame 
+```html
+    pip install pygame
+```
 
 ---
 
